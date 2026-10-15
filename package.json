@@ -1,0 +1,6 @@
+{
+  "name": "picalta",
+  "version": "4.3.0",
+  "private": true,
+  "engines": { "node": ">=20" }
+}
